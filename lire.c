@@ -1,5 +1,5 @@
 /*
- * I, Raphael Champeimont, the author of this program,
+ * I, River Champeimont, the author of this program,
  * hereby release it into the public domain.
  * This applies worldwide.
  * 
